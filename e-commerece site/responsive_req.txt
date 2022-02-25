@@ -1,0 +1,9 @@
+------ HOME SCREEN ------
+* nav bar needs to be responsive
+* elements in sliders should reduce in size
+* "see more" link should be smaller 
+* fix width with elements in "Who we are" section 
+* -- About Us section --
+    - the left row should have smaller size 
+    - buttons may need to reduce in size
+    - img should also resize make width responsive
